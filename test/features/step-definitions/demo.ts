@@ -351,7 +351,7 @@ retrieves their text values, and stores them in an array. Finally, it logs each
  * 1. scrollIntoView
  */
 
-await $(`span=Best Sellers in Books`).scrollIntoView()
+//await $(`span=Best Sellers in Books`).scrollIntoView()
 
 
 
